@@ -4,12 +4,14 @@
 \alias{test_function}
 \title{Test function}
 \usage{
-test_function(a = 1, b = 2)
+test_function(a = 1, b = 2, c = 3)
 }
 \arguments{
 \item{a}{A number.}
 
 \item{b}{A number.}
+
+\item{c}{A number.}
 }
 \value{
 A number.
